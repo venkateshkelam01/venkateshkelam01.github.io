@@ -1,0 +1,59 @@
+{
+    "certificates" : [
+        {
+            "image" : "images/certificates/data1.png",
+            "title": "Foundations: Data, Data, Everywhere",
+            "university": "Google",
+            "links": [
+                {
+                    "text": "Coursera",
+                    "href": "https://coursera.org/share/4466eeb46161a0bb866685d42bc86cad"
+                }
+            ]
+        },
+        {
+            "image" : "images/certificates/data2.png",
+            "title": "Ask Questions to Make Data-Driven Decisions",
+            "university": "Google",
+            "links": [
+                {
+                    "text": "Coursera",
+                    "href": "https://coursera.org/share/74d286da6b876369cf62cfb7d70526d4"
+                }
+            ]
+        },
+        {
+            "image" : "images/certificates/data3.png",
+            "title": "Prepare Data for Exploration",
+            "university": "Google",
+            "links": [
+                {
+                    "text": "Coursera",
+                    "href": "https://coursera.org/share/6531f545c014383755bd999daf051b83"
+                }
+            ]
+        },
+        {
+            "image" : "images/certificates/ibm.png",
+            "title": "IBM-Web Phishing Detection",
+            "university": "IBM",
+            "links": [
+                {
+                    "text": "IBM",
+                    "href": "https://courses.ictacademy.skillsnetwork.site/certificates/cb9de0d6d5b64f64b32fb42577ed1adb"
+                }
+            ]
+        },
+        {
+            "image" : "images/certificates/aws.png",
+            "title": "AWS Solutions Architect - Associate",
+            "university": "AWS",
+            "links": [
+                {
+                    "text": "AWS",
+                    "href": "https://www.credly.com/badges/6b803b40-6d34-4938-8bfc-5d66f2fd5b5e/linked_in_profile"
+                }
+            ]
+        }
+    ]
+}

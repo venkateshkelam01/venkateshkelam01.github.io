@@ -1,0 +1,44 @@
+{
+    "experiences": [
+        {
+            "title": "Student Life Operations - Supervisor & Teaching Assistant",
+            "subtitle": "Northeastern University",
+            "workType": "Part-time",
+            "workDescription": [
+                "Oversaw daily student life operations, ensuring smooth functioning of campus services and activities.",
+                "Provided support to students and staff, addressing inquiries and coordinating resources.",
+                "Maintained a welcoming and inclusive campus environment through proactive communication and problem solving.",
+                "Assisted in organizing and monitoring campus events, fostering student engagement and community building.",
+                "Created training videos and digital learning content using Canva, Vyond, and Nearlife to guide new student workers in their job responsibilities."
+            ],
+            "dateText": "Jan 2024 - Present"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "subtitle": "Ipser Labs",
+            "workType": "Full-time",
+            "workDescription": [
+                "Designed and developed Dhorobha, a React-based real estate platform with OAuth authentication and user management.",
+                "Implemented client-side routing with React Router and centralized state handling using Redux, reducing redundant APIcalls by 30% while collaborating in peer code reviews to ensure best practices.",
+                "Integrated Google Maps API for real-time property location visualization and navigation, enhancing user experience withinteractive map-based browsing.",
+                "Optimized performance using React lazy loading, code-splitting and Tailwind, reducing mobile load time by 25%.",
+                "Built scalable REST API endpoints in Java Spring Boot with 200ms response time, adding unit tests to improvereliability, maintainability, and enable future mobile app integration."
+            ],
+            "dateText": "Feb 2025 - May 2025"
+        },
+        
+        {
+            "title": "Frontend Intern",
+            "subtitle": "Uniq Solutions",
+            "workType": "Internship - Part-time",
+            "workDescription": [
+                "Developed responsive doctor appointment booking pages with React.js & Bootstrap, improving accessibility and increasing mobile bookings by 25%.",
+                "Integrated REST APIs to fetch real-time doctor availability and appointment slots, reducing scheduling errors and enabling instant confirmations",
+                "Implemented form validation and error handling, reducing failed bookings by 20% and boosting user trust.",
+                "Optimized state with Hooks and built reusable, well-tested React components, cutting duplication by 30% ",
+                "Collaborated in Agile sprints with designers and backend engineers, participating in code reviews and ensuring features were delivered on schedule with strong performance and responsiveness."
+            ],
+            "dateText": "Apr 2022 – Apr 2023"
+        }
+    ]
+}

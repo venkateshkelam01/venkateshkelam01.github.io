@@ -1,0 +1,30 @@
+{
+    "education":[
+        {
+            "title": "Aug 2023 - Present",
+            "cardTitle": "MS, Information Systems",
+            "cardSubtitle":"Northeastern University",
+            "cardDetailedText": "CGPA - 3.95",
+            "courses": [
+                "Algorithms",
+                "Web Development",
+                "Cloud Computing",
+                "Mobile App Development",
+                "DevOps"            ]
+        },
+        {
+            "title": "Aug 2019 - April 2023",
+            "cardTitle": "B.Tech, Information Technology",
+            "cardSubtitle":"Anna University, Chennai",
+            "cardDetailedText": "CGPA - 8.56",
+            "courses": [
+                "Data Structures",
+                "Operating Systems",
+                "Computer Networks",
+                "Software Engineering",
+                "Object Oriented Programming"
+            ]
+        }
+        
+    ]
+}

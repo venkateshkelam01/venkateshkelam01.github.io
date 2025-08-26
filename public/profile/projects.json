@@ -1,0 +1,99 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/battery.png",
+            "title": "Battery Health Estimation",
+            "bodyText": "Built a system to estimate battery health and proactively alert users before the battery reaches critical levels, optimizing device reliability and user experience.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/venkateshkelam01/Battery-Health-Estimation"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Jupyter Notebook"
+            ]
+        },
+        {
+            "image" : "images/projects/detection.png",
+            "title": "IBM Web Phishing Detection",
+            "bodyText": "Developed a phishing detection system to identify and block spam and fraudulent links, enhancing web security and user protection.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/venkateshkelam01/IBM-Web-Phishing-Detection"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "ExpressJS",
+                "Firebase"
+            ]
+        },
+        {
+            "image" : "images/projects/car.png",
+            "title": "Car Marketplace",
+            "bodyText": "Built an online car marketplace platform enabling users to seamlessly buy, sell, and browse vehicles with secure and efficient features.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/venkateshkelam01/online_car_marketplace"
+                }
+            ],
+            "tags" : [
+                "ReactJS",
+                "NodeJS",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "image" : "images/projects/vehicle.jpg",
+            "title": "Vehicle Management System",
+            "bodyText": "Developed a vehicle management system for parking lots to streamline entry, exit, and slot allocation while improving efficiency and security.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/venkateshkelam01/Vehicle-Management"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/funding.jpeg",
+            "title": "Crowd Funding",
+            "bodyText": "Built a crowdfunding platform enabling users to create, manage, and support fundraising campaigns with secure payment integration.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/venkateshkelam01/CrowdFunding"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Solidity"
+            ]
+        },
+        {
+            "image" : "images/projects/mail.png",
+            "title": "Fleximail_Agent",
+            "bodyText": "Created a browser and email extension that intelligently manages, filters, and prioritizes emails to enhance user productivity.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/venkateshkelam01/fleximail"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "JavaScript"
+            ]
+        }
+    ]
+}

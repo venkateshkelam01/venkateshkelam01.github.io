@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/venkatesh0101"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/venkateshkelam01"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:venkateshkelam01@gmail.com"
+        }
+    ]
+}

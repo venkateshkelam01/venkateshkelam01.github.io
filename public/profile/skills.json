@@ -1,0 +1,68 @@
+{
+    "intro": "I enjoy exploring new technologies and continuously expanding my skill set. Over time, I’ve gained hands-on experience with a wide range of programming languages, frameworks, tools, and platforms that have shaped my growth as a developer:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+     
+                {
+                    "icon": "Coffee",
+                    "title": "Java"
+                },
+                {
+                    "icon": "FileJs",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "FileType",
+                    "title": "TypeScript"
+                },
+                {
+                    "icon": "FileCode",
+                    "title": "Python"
+                }
+                
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "Smartphone",
+                    "title": "Android"
+                },
+                {
+                    "icon": "Atom",
+                    "title": "React"
+                },
+                {
+                    "icon": "Server",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "Smartphone",
+                    "title": "react-native"
+                }
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "Code2",
+                    "title": "Android Studio"
+                },
+                {
+                    "icon": "Github",
+                    "title": "Git"
+                },
+                {
+                    "icon": "Container",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "Flame",
+                    "title": "Firebase"
+                }
+            ]
+    }
+]}

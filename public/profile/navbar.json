@@ -1,0 +1,38 @@
+{
+	"logo" : {
+		"source": "images/logo.svg",
+		"height" : 60,
+		"width" : 50
+	},
+	"sections": [
+		{
+			"title": "Home",
+			"href": "/"
+		},
+		{
+			"title": "About",
+			"href": "/about"
+		},
+		{
+			"title": "Skills",
+			"href": "/skills"
+		},
+		{
+			"title": "Education",
+			"href": "/education"
+		},
+		{
+			"title": "Certificates",
+			"href": "/certificates"
+		},
+		{
+			"title": "Experience",
+			"href": "/experience"
+		},
+		{
+			"title": "Projects",
+			"href": "/projects"
+		}
+	]
+
+}
