@@ -29,8 +29,8 @@
         
         {
             "title": "Frontend Intern",
-            "subtitle": "Uniq Solutions",
-            "workType": "Internship - Part-time",
+            "subtitle": "Cybrowse Digital Solutions",
+            "workType": "Full-time",
             "workDescription": [
                 "Developed responsive doctor appointment booking pages with React.js & Bootstrap, improving accessibility and increasing mobile bookings by 25%.",
                 "Integrated REST APIs to fetch real-time doctor availability and appointment slots, reducing scheduling errors and enabling instant confirmations",
