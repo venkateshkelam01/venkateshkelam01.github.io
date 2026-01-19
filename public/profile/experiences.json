@@ -14,6 +14,19 @@
             "dateText": "Jan 2024 - Present"
         },
         {
+            "title": "Co-Founder — AI & Data Club",
+            "subtitle": "Northeastern University",
+            "workType": "Leadership",
+            "workDescription": [
+                "Co-founded and led the AI & Data Club, building a community of 75+ students focused on hands-on learning in AI, data engineering, and applied systems.",
+                "Organized technical workshops covering ML pipelines, cloud infrastructure, and data processing frameworks, fostering practical application of advanced concepts.",
+                "Coordinated peer-led projects that enabled members to build end-to-end systems, from data ingestion to model deployment.",
+                "Cultivated partnerships with industry professionals for guest talks and mentorship, bridging academic learning with real-world engineering practices.",
+                "Established the club as a hub for collaborative learning, where students shipped production-quality projects and gained experience with modern tech stacks."
+            ],
+            "dateText": "Aug 2024 - Dec 2025"
+        },
+        {
             "title": "Software Engineer Intern",
             "subtitle": "Ipser Labs",
             "workType": "Full-time",
@@ -26,7 +39,6 @@
             ],
             "dateText": "Feb 2025 - Jul 2025"
         },
-        
         {
             "title": "Software Developer",
             "subtitle": "Cybrowse Digital Solutions",
