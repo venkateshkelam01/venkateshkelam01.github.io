@@ -5,11 +5,11 @@
             "subtitle": "Northeastern University",
             "workType": "Part-time",
             "workDescription": [
-                "Oversaw daily student life operations, ensuring smooth functioning of campus services and activities.",
-                "Provided support to students and staff, addressing inquiries and coordinating resources.",
-                "Maintained a welcoming and inclusive campus environment through proactive communication and problem solving.",
-                "Assisted in organizing and monitoring campus events, fostering student engagement and community building.",
-                "Created training videos and digital learning content using Canva, Vyond, and Nearlife to guide new student workers in their job responsibilities."
+                "Supervised daily campus operations, coordinating between departments to ensure seamless delivery of student services and activities.",
+                "Developed comprehensive training programs with interactive video content using Canva, Vyond, and Nearlife, accelerating onboarding for 50+ student workers.",
+                "Resolved student and staff inquiries through proactive communication, fostering an inclusive campus environment.",
+                "Led event coordination and monitoring initiatives that strengthened student engagement and community building across campus.",
+                "Established standardized operational procedures that improved service consistency and team efficiency."
             ],
             "dateText": "Jan 2024 - Present"
         },
@@ -18,24 +18,25 @@
             "subtitle": "Ipser Labs",
             "workType": "Full-time",
             "workDescription": [
-                "Designed and developed Dhorobha, a React-based real estate platform with OAuth authentication and user management.",
-                "Implemented client-side routing with React Router and centralized state handling using Redux, reducing redundant APIcalls by 30% while collaborating in peer code reviews to ensure best practices.",
-                "Integrated Google Maps API for real-time property location visualization and navigation, enhancing user experience withinteractive map-based browsing.",
-                "Optimized performance using React lazy loading, code-splitting and Tailwind, reducing mobile load time by 25%.",
-                "Built scalable REST API endpoints in Java Spring Boot with 200ms response time, adding unit tests to improvereliability, maintainability, and enable future mobile app integration."
+                "Engineered backend Python microservices in a distributed architecture, resolving retry logic and latency issues that improved system stability by 35%.",
+                "Built asynchronous ETL pipelines using AWS SQS and Lambda to process high-volume API data, transforming and loading results into PostgreSQL and DynamoDB with 99.9% reliability.",
+                "Conducted parallel analytics on load-testing telemetry to identify performance bottlenecks, optimizing latency by 40% and increasing throughput across critical services.",
+                "Deployed and scaled cloud-native services on AWS (EC2, ECS, S3, DynamoDB) with CloudWatch monitoring, ensuring consistent performance under variable load.",
+                "Collaborated with Java engineering teams to architect inter-service communication patterns that reduced downstream failures by 25%."
             ],
-            "dateText": "Feb 2025 - May 2025"
+            "dateText": "Feb 2025 - Jul 2025"
         },
         
         {
-            "title": "Frontend Intern",
+            "title": "Software Developer",
+            "subtitle": "Cybrowse Digital Solutions",
             "workType": "Full-time",
             "workDescription": [
-                "Developed responsive doctor appointment booking pages with React.js & Bootstrap, improving accessibility and increasing mobile bookings by 25%.",
-                "Integrated REST APIs to fetch real-time doctor availability and appointment slots, reducing scheduling errors and enabling instant confirmations",
-                "Implemented form validation and error handling, reducing failed bookings by 20% and boosting user trust.",
-                "Optimized state with Hooks and built reusable, well-tested React components, cutting duplication by 30% ",
-                "Collaborated in Agile sprints with designers and backend engineers, participating in code reviews and ensuring features were delivered on schedule with strong performance and responsiveness."
+                "Architected enterprise Single Page Applications using Angular and React, delivering analytics dashboards and workflow automation tools that accelerated stakeholder decision-making.",
+                "Designed and implemented RESTful APIs with Java Spring Boot using layered architecture and comprehensive exception handling, reducing redundant frontend calls by 30%.",
+                "Built robust error boundaries and asynchronous state management for API integration, eliminating production UI crashes and improving application fault tolerance.",
+                "Drove incident resolution through systematic analysis of application metrics, logs, and distributed traces, cutting mean time to detection by 40%.",
+                "Participated in Agile development cycles with cross-functional teams, ensuring timely delivery of scalable, well-tested features through collaborative code reviews."
             ],
             "dateText": "Apr 2022 – Apr 2023"
         }
